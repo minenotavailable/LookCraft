@@ -1,7 +1,10 @@
 # LookCraft
 
-LookCraft is a personal app that helps me style pieces from my own wardrobe.
+LookCraft is a wardrobe app. It keeps an inventory of the pieces in your closet and helps you style any piece you pick, with outfit suggestions built from what you already own and inspirational images alongside each look.
 
-It uses the Pinterest API in read-only mode to show inspiration images from my own boards next to outfit suggestions. It does not post to Pinterest and does not store or share Pinterest data.
+Features:
+- Closet inventory with photos and details for each piece
+- Outfit suggestions for a chosen piece
+- Inspiration images from the user's own Pinterest boards (optional, read-only)
 
-Currently in development. Single-user, personal use.
+Currently in development.
